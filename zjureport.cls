@@ -106,7 +106,7 @@
       \includegraphics[width=0.7\linewidth]{浙江大学}
     \end{center}
     \vspace{1cm}
-    \bfseries\huge{本科实验报告}\\
+    \bfseries\huge{Fundamentals of Data Structures}\\
     \vspace{0.5cm}
     \bfseries\Large{\@expname}
     \vspace{3cm}
